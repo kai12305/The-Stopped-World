@@ -8,4 +8,4 @@ Have fun with it :D
 
 https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.113/neoforge-26.3.0.113-installer.jar
 
-(you wanne dubble click it and select Client Installer)
+(you wanne dubble click the .jar file and select Install client and then click Proceed)
